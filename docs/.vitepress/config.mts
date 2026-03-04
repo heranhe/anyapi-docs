@@ -41,7 +41,6 @@ export default defineConfig({
                         { text: '代理接口调用地址', link: '/guide/代理接口调用地址' },
                         { text: 'API Key 额度查询', link: '/guide/api-key额度查询服务' },
                         { text: '免费AI聊天项目', link: '/guide/免费ai聊天项目导航' },
-                        { text: '联系客服', link: '/guide/联系客服' },
                     ]
                 },
                 {

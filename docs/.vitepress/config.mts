@@ -15,7 +15,7 @@ export default defineConfig({
         nav: [
             { text: '快速开始', link: '/guide/api快速开始指南' },
             { text: 'API 参考', link: '/api/chat/chatgpt/chat/创建聊天补全-流式' },
-            { text: '教程', link: '/plugins/Cursor配置教程' },
+            { text: '教程', link: '/plugins/cursor配置教程' },
             { text: '代码示例', link: '/code/python/python基础对话' },
             { text: '官网', link: 'https://www.anyapi.vip' },
         ],

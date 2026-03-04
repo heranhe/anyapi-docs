@@ -1,42 +1,50 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# 引言
 
-hero:
-  name: "AnyAPI"
-  text: "AI 接口聚合管理服务"
-  tagline: 无需科学上网，一个 API Key 接入全球所有主流 AI 模型
-  image:
-    src: /logo.svg
-    alt: AnyAPI
-  actions:
-    - theme: brand
-      text: 快速开始
-      link: /guide/-api
-    - theme: alt
-      text: API 参考
-      link: /api/chat/chatgpt/chat/chuang-jian-liao-tian-bu-quan-liu-shi
-    - theme: alt
-      text: 官网注册
-      link: https://www.anyapi.vip/register
 
-features:
-  - icon: ⚡️
-    title: 极速直连
-    details: 无需代理，全球直连，连接速度是官方的 1200 倍，覆盖美国、日本、香港等七大地区
-  - icon: 🤖
-    title: 全模型支持
-    details: 支持 GPT-4o、Claude、Gemini、Midjourney、FLUX 等所有主流 AI 模型，一个 Key 全通用
-  - icon: 💰
-    title: 价格优惠
-    details: 折扣低于官方定价，新用户注册即赠 $0.2 体验额度，额度永不过期
-  - icon: 🔒
-    title: 安全稳定
-    details: 企业高速专线，0 封号风险，实时查看使用记录，服务 20 万+ 满意客户
-  - icon: 🔌
-    title: 完全兼容
-    details: 100% 兼容 OpenAI 接口协议，无缝对接 ChatBox、Cursor、lobechat 等所有主流工具
-  - icon: 📊
-    title: 灵活管理
-    details: API Key 可设定使用时间和额度，支持多账号高并发，保留 30 天使用记录
----
+
+# AI接口聚合管理服务介绍
+
+## 核心优势 🌟
+
+### 便捷访问
+- ✅ 无需科学上网，全球直连
+- ✅ 无封号风险
+- ✅ 连接速度是官方的1200倍
+- ✅ 覆盖全球七大地区（美国、日本、韩国、英国、香港、菲律宾、俄罗斯）
+
+### 功能特点
+- ✅ 完善的模型权限
+- ✅ 支持最新模型直接使用
+- ✅ 一个API key全模型通用
+- ✅ API key可设定使用时间和额度
+- ✅ 100％保值换绑使用
+
+### 商业优势
+- 🎁 新用户注册送0.2刀消费额度
+- 💰 价格低于官方
+- 🔒 支持多模型，各种渠道
+- 💼 服务20万＋满意客户
+- 🏢 800+中转代理合作伙伴
+
+## 功能对比表
+
+| 功能 | AnyAPI | 官方API |
+|------|---------|---------|
+| 支持GPT-4等模型 | ✅ 支持各类型 | ❌ 需要账号有4.0权限 |
+| 最高调用速度 | ✅ | ❌ 需要绑卡付费48小时后 |
+| 多账号高并发开发 | ✅ 数百个账号 | ❌ 单个账号API有限制 |
+| OpenAI账号要求 | ✅ 无需注册 | ❌ 需要科学和绑定国外手机 |
+| 额度有效期 | ✅ 永不过期 | ❌ 三个月到期 |
+| 风控问题 | ✅ 0封号 | ❌ 随时无故封号 |
+| 使用记录查看 | ✅ 实时查看，保留30天 | ❌ 只能看到延迟总消耗 |
+| 代理访问要求 | ✅ 无需代理 | ❌ 需要在可支持的地区使用 |
+| 计费规则 | 折扣价 | 原价 |
+| 接口地址 | `https://www.anyapi.vip` | `https://api.openai.com` |
+| 资源整合 | ✅ 完全兼容各平台接口协议 | ❌ |
+
+## 技术优势
+- 💯 采用企业高速链
+- 🔒 无需路由二次保留数据
+- 🌐 稳定纯净API源头
+- 🔄 支持OpenAI接口协议
+- 🛠️ 0开发基础可直接对接各种应用

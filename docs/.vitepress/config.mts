@@ -24,6 +24,34 @@ const fullSidebar = [
         ]
     },
     {
+        text: '编程工具教程',
+        collapsed: true,
+        items: [
+            { text: 'Cursor', link: '/plugins/cursor配置教程' },
+            { text: 'Cline', link: '/plugins/cline配置教程' },
+            { text: 'Claude Code', link: '/plugins/Claude-Code安装使用教程' },
+            { text: 'CLAUDE DEV', link: '/plugins/claude-dev配置教程' },
+            { text: 'aider', link: '/plugins/aider配置教程' },
+            { text: 'Codex', link: '/plugins/Codex配置教程' },
+            { text: 'opencode', link: '/plugins/opencode配置教程' },
+            { text: 'Gemini CLI', link: '/plugins/Gemini-CLI中转站配置使用教程' },
+        ]
+    },
+    {
+        text: 'AI 客户端教程',
+        collapsed: true,
+        items: [
+            { text: 'Cherry Studio', link: '/plugins/cherry-studio配置教程' },
+            { text: 'Cherry Studio MCP', link: '/plugins/CherryStudio调用claude-MCP' },
+            { text: 'Cherry Studio 4K', link: '/plugins/Cherry-Studio配置banana-pro-4K教程' },
+            { text: 'Cherry Studio o4推理', link: '/plugins/CherryStudio配置o4推理级别' },
+            { text: 'ChatBox', link: '/plugins/chatbox使用' },
+            { text: 'lobechat', link: '/plugins/lobechat设置教程' },
+            { text: 'nextchat', link: '/plugins/nextchat设置教程' },
+            { text: 'RikkaHub', link: '/plugins/RikkaHub配置教程' },
+        ]
+    },
+    {
         text: '帮助中心',
         collapsed: true,
         items: [
@@ -324,34 +352,7 @@ const fullSidebar = [
             { text: '上传图片到图床', link: '/api/tools/上传图片到图床' },
         ]
     },
-    {
-        text: '编程工具教程',
-        collapsed: true,
-        items: [
-            { text: 'Cursor', link: '/plugins/cursor配置教程' },
-            { text: 'Cline', link: '/plugins/cline配置教程' },
-            { text: 'Claude Code', link: '/plugins/Claude-Code安装使用教程' },
-            { text: 'CLAUDE DEV', link: '/plugins/claude-dev配置教程' },
-            { text: 'aider', link: '/plugins/aider配置教程' },
-            { text: 'Codex', link: '/plugins/Codex配置教程' },
-            { text: 'opencode', link: '/plugins/opencode配置教程' },
-            { text: 'Gemini CLI', link: '/plugins/Gemini-CLI中转站配置使用教程' },
-        ]
-    },
-    {
-        text: 'AI 客户端教程',
-        collapsed: true,
-        items: [
-            { text: 'Cherry Studio', link: '/plugins/cherry-studio配置教程' },
-            { text: 'Cherry Studio MCP', link: '/plugins/CherryStudio调用claude-MCP' },
-            { text: 'Cherry Studio 4K', link: '/plugins/Cherry-Studio配置banana-pro-4K教程' },
-            { text: 'Cherry Studio o4推理', link: '/plugins/CherryStudio配置o4推理级别' },
-            { text: 'ChatBox', link: '/plugins/chatbox使用' },
-            { text: 'lobechat', link: '/plugins/lobechat设置教程' },
-            { text: 'nextchat', link: '/plugins/nextchat设置教程' },
-            { text: 'RikkaHub', link: '/plugins/RikkaHub配置教程' },
-        ]
-    },
+
     {
         text: '工作流平台教程',
         collapsed: true,
